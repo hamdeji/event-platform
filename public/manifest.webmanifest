@@ -1,0 +1,9 @@
+{
+  "name": "Eventa",
+  "short_name": "Eventa",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#fafaf9",
+  "theme_color": "#065f46",
+  "icons": []
+}
